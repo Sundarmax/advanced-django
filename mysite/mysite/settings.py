@@ -65,9 +65,9 @@ DATABASES = {
     'ENGINE': 'django.db.backends.postgresql_psycopg2',
     'NAME': 'advancedDjango',
     'USER': 'postgres',
-    'PASSWORD': 'admin',
+    'PASSWORD': 'ADMIN',
     'HOST': 'localhost',
-    'PORT': '4500'
+    'PORT': '5432'
 }
 }
 
